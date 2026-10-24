@@ -1,0 +1,13 @@
+{"step": 0, "success_rate": 0.6, "avg_return": 0.6, "avg_episode_len": 175.4, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 0, "success_rate": 0.6, "avg_return": 0.6, "avg_episode_len": 175.4, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 0, "success_rate": 0.6, "avg_return": 0.6, "avg_episode_len": 175.4, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 500, "success_rate": 0.64, "avg_return": 0.64, "avg_episode_len": 171.04, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 1000, "success_rate": 0.68, "avg_return": 0.68, "avg_episode_len": 161.08, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 1500, "success_rate": 0.76, "avg_return": 0.76, "avg_episode_len": 145.08, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 2000, "success_rate": 0.76, "avg_return": 0.76, "avg_episode_len": 145.16, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 2500, "success_rate": 0.8, "avg_return": 0.8, "avg_episode_len": 135.48, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 3000, "success_rate": 0.84, "avg_return": 0.84, "avg_episode_len": 126.0, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 3500, "success_rate": 0.8, "avg_return": 0.8, "avg_episode_len": 135.16, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 4000, "success_rate": 0.76, "avg_return": 0.76, "avg_episode_len": 144.64, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 4500, "success_rate": 0.8, "avg_return": 0.8, "avg_episode_len": 135.04, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}
+{"step": 5000, "success_rate": 0.8, "avg_return": 0.8, "avg_episode_len": 135.4, "prefix": "17732", "seed": 43, "launch_group_id": "assembly_replication"}

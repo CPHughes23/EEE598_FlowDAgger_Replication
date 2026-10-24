@@ -1,0 +1,11 @@
+{"step": 0, "success_rate": 0.52, "avg_return": 0.52, "avg_episode_len": 191.84, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 500, "success_rate": 0.64, "avg_return": 0.64, "avg_episode_len": 168.92, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 1000, "success_rate": 0.68, "avg_return": 0.68, "avg_episode_len": 161.6, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 1500, "success_rate": 0.72, "avg_return": 0.72, "avg_episode_len": 151.76, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 2000, "success_rate": 0.72, "avg_return": 0.72, "avg_episode_len": 153.36, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 2500, "success_rate": 0.64, "avg_return": 0.64, "avg_episode_len": 170.12, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 3000, "success_rate": 0.64, "avg_return": 0.64, "avg_episode_len": 169.64, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 3500, "success_rate": 0.72, "avg_return": 0.72, "avg_episode_len": 151.96, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 4000, "success_rate": 0.76, "avg_return": 0.76, "avg_episode_len": 143.4, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 4500, "success_rate": 0.76, "avg_return": 0.76, "avg_episode_len": 142.92, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
+{"step": 5000, "success_rate": 0.72, "avg_return": 0.72, "avg_episode_len": 152.16, "prefix": "10777", "seed": 44, "launch_group_id": "assembly_replication"}
