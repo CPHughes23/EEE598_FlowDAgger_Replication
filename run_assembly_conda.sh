@@ -27,7 +27,10 @@ python -c "import jax; d = jax.devices(); print(d); assert 'cuda' in str(d[0]).l
 cd "$REPO/flowdagger_pi05"
 for SEED in $SEEDS; do
   echo "=== seed $SEED ($(date)) ==="
-  python train_flowdagger.py \
+  # env -u DISPLAY: train_utils.py hooks the GLOBAL keyboard (pynput) during eval,
+  # so an 's' typed in any window aborts the current eval rollout and scores it as
+  # a failure. Without an X display the listener can't start; EGL rendering is fine.
+  env -u DISPLAY -u WAYLAND_DISPLAY python train_flowdagger.py \
     --env metaworld --task_key metaworld_assembly --seed "$SEED" \
     --max_steps 5000 \
     --eval_episodes 25 --eval_interval 500 \
