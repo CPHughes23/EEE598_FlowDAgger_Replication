@@ -55,3 +55,5 @@ To check old results for skips without logs: unskipped failures always run the f
 successes take ~92, so `(avg_episode_len - success_rate*92) / (1 - success_rate)` should be ~300.
 Values well below 300 mean rollouts were skipped. In `flowdagger_runs/` only seed 42 step 1500
 (~190) looks affected; the base (step 0) and final (step 5000) numbers are clean.
+
+See [FINDINGS.md](FINDINGS.md) for why the trial runs were ~0.1 below the paper (short answer: base-policy sampling, not a bug).
